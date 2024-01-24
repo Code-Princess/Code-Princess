@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-Princess.
+- 👋 Hi, I’m @Code-Princess and I like jumping on the trampoline.
 - 👀 I’m interested in coding and creating video content on YouTube: https://www.youtube.com/@cindaellas 
 - 🌱 I’m currently learning C-programming.
 - 💞️ I’m looking to collaborate on ...
