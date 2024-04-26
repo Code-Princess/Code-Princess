@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @Code-Princess and I like jumping on the trampoline.
-- 👀 I’m interested in coding and creating video content on YouTube: https://www.youtube.com/@cindaellas 
-- 🌱 I’m currently learning C-programming.
+# 👋 Hi, I’m @Code-Princess 
+- and I like jumping on the trampoline.
+- 👀 I’m interested in coding
+  
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-princess&show_icons=true&theme=radical)
+
+- and creating video content on my YouTube Channel [Cinda Ellas](https://www.youtube.com/@cindaellas):
+  
+  https://www.youtube.com/@cindaellas 
+- 🌱 I’m currently learning C-programming at the [42 Heilbronn coding school](https://www.42heilbronn.de/en/).
 - 📫 How to reach me lindalacsivy@outlook.de
 
 ## Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git
