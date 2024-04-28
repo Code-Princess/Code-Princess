@@ -10,7 +10,7 @@
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git](https://ytcards.demolab.com/?id=ZhrFfiJg5z0&title=Git+Tutorial/Code-Princess/Git/GitHub/Visual+Studio+Code/Git+auf+Windows+PC+einrichten/How+to+Git&lang=en&timestamp=1714082400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=500&border_radius=5&duration=931 "Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+[![Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git](https://ytcards.demolab.com/?id=ZhrFfiJg5z0&title=Git+Tutorial/Code-Princess/Git/GitHub/Visual+Studio+Code/Git+auf+Windows+PC+einrichten/How+to+Git&lang=en&timestamp=1714082400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=850&border_radius=5&duration=931 "Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 <!-- END YOUTUBE-CARDS -->
 
 ## 🌐 Socials:
