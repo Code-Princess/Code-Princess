@@ -2,7 +2,7 @@
 - and I like jumping on the trampoline.<br>
 - 👩🏻‍💻 I’m interested in coding<br>
 - and creating video content on my YouTube Channel [Cinda Ellas](https://www.youtube.com/@cindaellas)<br>
-- 🌱 I’m currently learning C-programming at the [42 Heilbronn coding school](https://www.42heilbronn.de/en/).<br>
+- 🌱 I’m currently learning C and C++ programming at the [42 Heilbronn coding school](https://www.42heilbronn.de/en/).<br>
 - 📫 How to reach me lindalacsivy@outlook.de
 
 ## 👀 YouTube Video: Git Tutorial/Code-Princess/Git/GitHub/Visual Studio Code/Git auf Windows PC einrichten/How to Git
